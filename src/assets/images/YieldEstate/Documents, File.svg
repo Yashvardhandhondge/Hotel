@@ -1,0 +1,12 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.414 6.414L15.586 3.586C15.211 3.211 14.702 3 14.172 3H7C5.895 3 5 3.895 5 5V19C5 20.105 5.895 21 7 21H17C18.105 21 19 20.105 19 19V7.828C19 7.298 18.789 6.789 18.414 6.414V6.414Z" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 8H15C14.448 8 14 7.552 14 7V3" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.34 12.1699H13.66" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.005 12.751V11.583C8.005 11.261 8.266 11 8.588 11H9.756C10.078 11 10.339 11.261 10.339 11.583V12.751C10.339 13.073 10.078 13.334 9.756 13.334H8.588C8.266 13.333 8.005 13.072 8.005 12.751Z" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.661 12.751V11.583C13.661 11.261 13.922 11 14.244 11H15.412C15.734 11 15.995 11.261 15.995 11.583V12.751C15.995 13.073 15.734 13.334 15.412 13.334H14.244C13.922 13.333 13.661 13.072 13.661 12.751Z" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.34 16.8301H13.66" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.005 17.417V16.248C8.005 15.926 8.266 15.665 8.588 15.665H9.757C10.079 15.665 10.34 15.926 10.34 16.248V17.417C10.34 17.739 10.079 18 9.757 18H8.588C8.266 18 8.005 17.739 8.005 17.417Z" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.665 17.417V16.248C13.665 15.926 13.926 15.665 14.248 15.665H15.417C15.739 15.665 16 15.926 16 16.248V17.417C16 17.739 15.739 18 15.417 18H14.248C13.926 18 13.665 17.739 13.665 17.417Z" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.83 15.6601V13.3301" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.17004 13.3301V15.6601" stroke="#202020" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,3 @@
+.thirdwebbutton, Popover:not(.except), div:not(#my-tooltip, .sideBar, .except, #react-tiny-popover-container, .react-tiny-popover-container ) {
+    transition: all ease 0.4s !important;
+  }

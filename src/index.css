@@ -1,0 +1,146 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbarwidth::-webkit-scrollbar-thumb {
+    background: #a7a7a7;
+  }
+  
+  .scrollbarwidth::-webkit-scrollbar {
+    width: 4px;
+    height: 8px;
+    background: #ebebeb;
+    display: block;
+  }
+
+.react-time-picker__wrapper{
+  border:none !important;
+}
+
+.range-slider__range {
+  /* CSS for range */
+  background:  linear-gradient(0deg, #5b1deec0 0%, #5b1dee 100%) !important;
+  border: none !important;
+}
+
+.range-slider__thumb{
+  width: 16px !important;
+  height: 16px !important;
+  background-color: #5b1dee !important;
+}
+
+/* Range Slider as a Single Thumb Slider */
+.single-thumb .range-slider__thumb[data-lower] {
+  width: 0 !important;
+}
+.single-thumb .range-slider__range {
+  border-radius: 6px;
+}
+
+.input-range__label-container{
+  display: none !important;
+}
+.react-time-picker__inputGroup__input{
+  width: 90px !important;
+  height: 50px !important;
+  background: #fff !important;
+  text-align: center !important;
+  font-weight: 500 !important;
+  padding: 0px !important;
+  font-size: 30px !important;
+  border-radius: 8px !important;
+  border: 2px solid #E3E3E3 !important;
+  outline: none !important;
+  margin-right: 20px !important;
+  /* box-shadow: -2px -2px 6px 0px rgba(253, 255, 255, 0.8); */
+
+box-shadow: 2px 2px 6px 0px rgba(187, 195, 206, 0.6) !important;
+
+}
+.react-time-picker__inputGroup__minute{
+  margin: 0px 20px 0px 0px !important;
+}
+.react-time-picker__inputGroup__divider, .react-time-picker__inputGroup__leadingZero{
+  display: none !important;
+  width: 0px;
+}
+
+.react-time-picker__inputGroup__amPm {
+  margin: 0px 0px 0px 0px !important;
+
+}
+
+.thumbs {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.thumb{
+  width: 100% !important;
+}
+
+.carousel .slider-wrapper.axis-horizontal .slider {
+  align-items: center;
+}
+
+.rdrDefinedRangesWrapper{
+  display: none !important;
+}
+
+.rdrStartEdge, .rdrEndEdge{
+  color: #5b1dee !important;
+}
+
+.rdrSelected {
+  background-color: #5b1dee !important;
+}
+
+.rdrDateDisplayWrapper {
+  border-radius: 10px !important;
+}
+
+
+.custom-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  /* Add any other styles as needed */
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.custom-prev-arrow {
+  left:10px;
+  order: 1;
+  z-index: 10;
+}
+
+.custom-next-arrow {
+  right: 10px;
+  order: 2;
+  z-index: 10;
+}
+
+img{
+  user-select: none !important;
+}
+
+
+
+
+
+#react-tiny-popover-container{
+  z-index: 1000 !important;
+}
+
+.thirdwebbutton{
+  background: linear-gradient(180deg, #5b1deec0 0%, #5b1dee 70%) !important;
+  border-radius: 12px !important;
+  height: 40px !important;
+  cursor: pointer !important;
+  font-family: "General Sans" !important;
+}
+
